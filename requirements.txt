@@ -1,0 +1,9 @@
+# core
+django==4.2.5
+djangorestframework==3.14.0
+
+# elevenLabs
+elevenlabs==0.2.26
+
+# server
+gunicorn==20.1.0
